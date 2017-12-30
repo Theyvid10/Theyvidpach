@@ -1,0 +1,103 @@
+@charset "utf-8";
+/* CSS Document */
+#contenedor{
+	width: 1296;
+	height: 864px;
+	background-image: url(../fotos/videos.jpg);
+}
+
+#header{
+	height:10%;
+	background-color: #EDEDED;
+	display:block;
+	
+	
+}
+
+.tabla{
+	width: 500px;
+	float: right;
+	border: 5px;
+	padding:0px;
+	margin-top: 30px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin-right: 40px;
+	font-size: 14px;
+}
+
+th{
+	width: 90px;
+	padding: 1px;
+	border: 0px;
+}
+
+.logo, img{
+	width: 50%;
+	height: 100%;
+	float:left;
+	margin: 0%;
+	padding: 0px;
+	margin-bottom: 5px;
+	width:87px;
+	height: 85px;
+	margin-left: 40px; 
+}
+
+#contenido{
+	height: 50%;
+	margin-top:10px;
+}
+
+.video{
+	width:350px;
+	height:auto;
+
+}
+
+h1{
+	color:#F3F3F3;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+.videoyou{
+	text-align:center;
+}
+
+#footer{
+	height: 20%;
+	background-color: #FFFFFF;
+	margin-top: 165px;
+	text-align:center;
+}
+
+.palabras{
+	text-align:center;
+	margin-left: 535px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+}
+
+.enfr{
+	margin-top: 90px;
+	text-align:center;
+}
+
+#nuevo{
+	height: 30%;
+	margin-top: 20px;
+	
+}
+
+.derecho{
+	text-align:center;
+}
+
+.space{
+	height:20%;
+}
+
+body{
+	margin:0px;
+	
+}
+
